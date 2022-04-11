@@ -1,5 +1,5 @@
 -f https://download.pytorch.org/whl/torch_stable.html
-# tensorflow-cpu
+tensorflow-cpu
 flask
 underthesea
 torch==1.11.0+cpu
